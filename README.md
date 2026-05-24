@@ -78,20 +78,49 @@ I'm a motivated **MCA student** and hands-on web developer who builds and ships 
 
 ---
 
-### 📊 GitHub Stats
+### 🌐 Live Projects
+
+| Project | Live Link | Repo |
+|--------|-----------|------|
+| 🏥 MyHealth AI | *Coming Soon* | [View Code](https://github.com/debanjann89) |
+| 📈 Amplifier Marketing | *Private Client Site* | [View Code](https://github.com/debanjann89) |
+| 🎮 ArcmodeGTA | *Coming Soon* | [View Code](https://github.com/debanjann89) |
+| 🥔 Lays Brand Clone | *Coming Soon* | [View Code](https://github.com/debanjann89) |
+
+> 💡 **Replace the links above with your actual live URLs once deployed.**
+
+---
+
+### 💼 Freelance Services
+
+I'm available for freelance work. Here's what I can build for you:
+
+- 🖥️ **Full-Stack Web Apps** — MERN stack, FastAPI, REST APIs, database design
+- 🎨 **Business & Agency Websites** — fast, mobile-first, SEO-optimised landing pages
+- 📊 **Performance Marketing Setup** — Meta Pixel, Google Analytics, conversion tracking
+- 🤖 **AI-Powered Features** — Generative AI integration, chatbots, smart dashboards
+- 🔍 **SEO & Technical Optimisation** — Core Web Vitals, structured data, meta setup
+
+---
+
+### 📬 Hire Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debanjann89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanjann89&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <b>Open to freelance projects, internships, and full-time roles.</b><br/><br/>
+  <a href="mailto:officialdebanjanamin2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/debanjanamin/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/918918186998" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=debanjann89&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=debanjann89&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<p align="center"><i>Based in Siliguri, India · Available for remote work worldwide</i></p>
 
 ---
 
@@ -107,8 +136,3 @@ I'm a motivated **MCA student** and hands-on web developer who builds and ships 
 - 📜 **Data Science Workshop** — Certificate of Completion, SIT (June 2025)
 
 ---
-
-<p align="center">
-  <i>Open to freelance projects, internships, and collaborations. Let's build something great.</i><br/>
-  <a href="mailto:officialdebanjanamin2004@gmail.com">📬 officialdebanjanamin2004@gmail.com</a>
-</p>
