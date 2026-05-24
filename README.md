@@ -86,7 +86,11 @@ I'm a motivated **MCA student** and hands-on web developer who builds and ships 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debanjann89&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=debanjann89&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debanjann89&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
