@@ -82,12 +82,10 @@ I'm a motivated **MCA student** and hands-on web developer who builds and ships 
 
 | Project | Live Link | Repo |
 |--------|-----------|------|
-| 🏥 MyHealth AI | *Coming Soon* | [View Code](https://github.com/debanjann89) |
-| 📈 Amplifier Marketing | *Private Client Site* | [View Code](https://github.com/debanjann89) |
-| 🎮 ArcmodeGTA | *Coming Soon* | [View Code](https://github.com/debanjann89) |
-| 🥔 Lays Brand Clone | *Coming Soon* | [View Code](https://github.com/debanjann89) |
-
-> 💡 **Replace the links above with your actual live URLs once deployed.**
+| 🏥 MyHealth AI | [my-health-ai.vercel.app](https://my-health-ai.vercel.app) | [View Code](https://github.com/debanjann89) |
+| 📈 Amplifier Marketing | [amplifiermarketing.in](https://amplifiermarketing.in) | [View Code](https://github.com/debanjann89) |
+| 🎮 ArcmodeGTA | [arcmodegta.in](https://arcmodegta.in) | [View Code](https://github.com/debanjann89) |
+| 🥔 Lays Brand Clone | [lays-website.vercel.app](https://lays-website.vercel.app) | [View Code](https://github.com/debanjann89/LaysWebsite) |
 
 ---
 
