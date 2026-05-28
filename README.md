@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Debanjan Amin 👋</h1>
-<h3 align="center">Full-Stack Web Developer · MCA Student · Siliguri, India</h3>
+<h3 align="center">Full-Stack Web & Android Developer · MCA Student · Siliguri, India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debanjanamin/" target="_blank">
@@ -15,19 +15,21 @@
 
 ### 🧑‍💻 About Me
 
-I'm a motivated **MCA student** and hands-on web developer who builds and ships full-stack websites for real businesses. I specialise in **React, Node.js, FastAPI, and API integration**, with a strong grasp of **SEO, Meta Pixel, and performance marketing** tools.
+I'm a motivated **MCA student**, full-stack web developer, and native Android engineer who builds and ships performant production-ready software for real businesses. I specialise in **React, Node.js, Kotlin, and native Android telemetry integrations**, with a strong grasp of **SEO, API development, and performance optimization**.
 
-- 🔭 Currently building production websites for real clients
-- 🌱 Exploring **Generative AI integration** in full-stack apps
-- 💡 Passionate about performant, visually polished web experiences
+- 🔭 Currently building production websites and mobile utilities for real clients
+- 🌱 Exploring **Generative AI integration** in full-stack apps and native mobile flows
+- 💡 Passionate about performant, visually polished, and safety-focused user experiences
 - 📍 Based in **Siliguri, West Bengal, India**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+**Mobile & Frontend**
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -47,8 +49,8 @@ I'm a motivated **MCA student** and hands-on web developer who builds and ships 
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Tools & Platforms**
@@ -69,12 +71,12 @@ I'm a motivated **MCA student** and hands-on web developer who builds and ships 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| 🏍️ **RideSafe Auto Reply** | Automated background-resilient Android safety app programmatically ending incoming calls and auto-sending telemetry-enriched SMS replies while riding | Kotlin · Compose · Telephony · GPS |
 | 🏥 **MyHealth AI** | Full-stack health assistant with AI-powered medical report analysis, diet planning, and nutrition tracking | React · FastAPI · MongoDB · GenAI |
 | 📈 **Amplifier Marketing** | Production website for a Kolkata-based performance marketing agency with Meta Pixel, GA4, WhatsApp lead funnel & admin portal | React · Node.js · SEO · Meta Pixel |
 | 🎮 **ArcmodeGTA** | Fully responsive gaming community website with dynamic content and backend API integration | React · Node.js · PHP |
 | 🥔 **Lays Brand Clone** | Pixel-accurate recreation of the Lays brand website with advanced CSS animations | React · Vercel |
 | 🤖 **Crypto Trading Bot** | Python trading bot using Binance Futures Testnet API supporting Market & Limit orders | Python · Binance API |
-| 📊 **Sales Prediction ML** | Linear Regression model for sales forecasting and ad strategy optimisation | Python · Machine Learning |
 
 ---
 
@@ -82,6 +84,7 @@ I'm a motivated **MCA student** and hands-on web developer who builds and ships 
 
 | Project | Live Link | Repo |
 |--------|-----------|------|
+| 🏍️ RideSafe Auto Reply | [GitHub Repo](https://github.com/debanjann89/RideSafe-App-) | [View Code](https://github.com/debanjann89/RideSafe-App-) |
 | 🏥 MyHealth AI | [my-health-ai.vercel.app](https://my-health-ai.vercel.app) | [View Code](https://github.com/debanjann89) |
 | 📈 Amplifier Marketing | [amplifiermarketing.in](https://amplifiermarketing.in) | [View Code](https://github.com/debanjann89) |
 | 🎮 ArcmodeGTA | [arcmodegta.in](https://arcmodegta.in) | [View Code](https://github.com/debanjann89) |
@@ -93,11 +96,11 @@ I'm a motivated **MCA student** and hands-on web developer who builds and ships 
 
 I'm available for freelance work. Here's what I can build for you:
 
-- 🖥️ **Full-Stack Web Apps** — MERN stack, FastAPI, REST APIs, database design
+- 📱 **Native Android Applications** — background-resilient system utilities, telemetry services, custom Jetpack Compose UIs
+- 🖥️ **Full-Stack Web Apps** — MERN stack, FastAPI, REST APIs, database architecture
 - 🎨 **Business & Agency Websites** — fast, mobile-first, SEO-optimised landing pages
-- 📊 **Performance Marketing Setup** — Meta Pixel, Google Analytics, conversion tracking
-- 🤖 **AI-Powered Features** — Generative AI integration, chatbots, smart dashboards
-- 🔍 **SEO & Technical Optimisation** — Core Web Vitals, structured data, meta setup
+- 📊 **Performance Marketing Setup** — Meta Pixel, Google Analytics, conversion tracking funnel integrations
+- 🤖 **AI-Powered Features** — Generative AI integration, smart chatbots, predictive analysis dashboards
 
 ---
 
@@ -111,10 +114,6 @@ I'm available for freelance work. Here's what I can build for you:
   &nbsp;
   <a href="https://www.linkedin.com/in/debanjanamin/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/918918186998" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
